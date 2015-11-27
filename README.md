@@ -17,7 +17,8 @@ Copy these files to `~/Library/Application Support/Sublime Text 2/Packages/Coffe
 
 ### How to use
 
-Set the build system to coffeelint, and then select the "Build" command (Tools > Build System > coffeelint).
+Just save a `.coffee` file and it should run automatically.
 
-Alternatively, just save a `.coffee` file and it should run automatically.
+Alternatively, set the build system to coffeelint and select the "Build" command from "Tools" menu.
 
+Press `esc` to close the console.

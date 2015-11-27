@@ -1,1 +1,1 @@
-# Sublime-Coffeelint
+Sublime-Coffeelint

@@ -1,0 +1,8 @@
+{
+    //"target": "coffeelint"
+    "cmd": [
+      "/usr/local/bin/node",
+      "/usr/local/bin/coffeelint",
+      "$file"
+    ]
+}
